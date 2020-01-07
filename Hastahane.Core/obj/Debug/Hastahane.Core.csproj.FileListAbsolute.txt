@@ -1,0 +1,13 @@
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\bin\Debug\Hastahane.Core.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\bin\Debug\Hastahane.Core.pdb
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\bin\Debug\Hastahane.Data.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\bin\Debug\EntityFramework.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\bin\Debug\Hastahane.Data.pdb
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\bin\Debug\Hastahane.Data.dll.config
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\bin\Debug\EntityFramework.xml
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\obj\Debug\Hastahane.Core.csprojAssemblyReference.cache
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\obj\Debug\Hastahane.Core.csproj.CopyComplete
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\obj\Debug\Hastahane.Core.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\obj\Debug\Hastahane.Core.pdb
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\bin\Debug\itextsharp.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Core\bin\Debug\itextsharp.xml

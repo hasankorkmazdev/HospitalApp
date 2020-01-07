@@ -1,0 +1,13 @@
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\bin\Debug\Hastahane.Data.dll.config
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\bin\Debug\Hastahane.Data.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\bin\Debug\Hastahane.Data.pdb
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\bin\Debug\EntityFramework.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\bin\Debug\EntityFramework.xml
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\obj\Debug\Hastahane.Data.csproj.CopyComplete
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\obj\Debug\Hastahane.Data.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\obj\Debug\Hastahane.Data.pdb
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\bin\Debug\System.Data.SqlClient.dll
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HasanKorkmaz\Desktop\Hastahane\HastahaneOtomasyon\Hastahane.Data\obj\Debug\Hastahane.Data.csprojAssemblyReference.cache
